@@ -11,7 +11,7 @@ This QR Code generator empowers you to quickly and effortlessly create QR codes.
 
 Live Demo:
 
-
+https://mannath-qr-generator.netlify.app/
 
 ![alt text](demo.png)
 
